@@ -1,0 +1,185 @@
+body, html	{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	font-family: 'Hind', sans-serif;
+	
+}
+
+body {
+	background-color: #fff;
+}
+
+.navbar-brand img { 
+	width: 70px;
+
+}
+
+.navbar-brand {
+	font-weight: 700;
+	font-size: 60px;
+	color: #484848;
+	
+}
+@media (max-width: 1100px) {
+	.navbar-brand  {
+		font-size: 0.7em;
+	}
+} 
+
+.navbar-nav li {
+	padding-right: 20px;
+}
+
+.nav-link {
+	font-size: 1.1em !important
+}
+
+.nav {
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+
+.carousel-inner {
+	height: 500px;
+}
+
+.carousel-inner img {
+	
+	width: 100%
+	height: 100%;
+}
+@media (min-width: 1100px) {
+	.carousel-inner img {
+		width: 100%;
+	}
+}
+
+.carousel-caption {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-40%);
+	font-weight: 700;
+	text-shadow: 1px 1px 10px #000;
+}
+@media (max-width: 450px) {
+	.carousel-caption .display-2 {
+		font-size: 3em;
+	}
+}
+.img-pro {
+	width: ;
+}
+
+.Pro-Nas {
+	padding-top: 15%;
+}
+
+.Pro-nas-title {
+	font-weight: 700;
+	color: #484848;
+}
+
+.products-title-pro {
+	font-weight: 700;
+	color: #484848;
+}
+
+
+
+.card {
+	border: none;
+}
+
+.lead {
+	text-align: justify;
+	font-size: 20px;
+	color: #999;
+
+}
+.content-lg {
+	margin-top:0%;
+}
+
+.Products {
+	padding-top: 15%;
+}
+
+.products-title {
+	color: #484848;
+	font-weight: 600;
+}
+
+.products-text {
+	color: #999;
+}
+
+.card-title {
+	font-weight: 700;
+	color: #484848;
+}
+
+.card-text {
+	font-weight: 500;
+	font-size: 15px;
+	text-align: justify;
+	color: #999;
+}
+
+.parallax-window {
+    min-height: 300px;
+    background: transparent;
+}
+
+.para {
+	padding-top: 20%;
+}
+
+.promo-banner-title {
+	font-size: 45px;
+	padding-top: 5%;
+	text-align: center;
+
+}
+
+.promo-banner-text {
+	text-align: justify;
+	width: 100%;
+	font-size: 20px;
+	font-weight: 400;
+	color: black;
+}
+
+.contact {
+	padding-top: 15%;
+	color: #484848;
+}
+
+.contact-text a {
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+
+	color: #333;
+	text-decoration: none;
+
+	transition: color .1s linear;
+}
+.contact-title {
+	font-weight: 600; 
+}
+
+.footer {
+	padding-top: 5%;
+	text-align: center;
+}
+
+.footer-logo {
+	width: 100px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
